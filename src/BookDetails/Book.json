@@ -1,0 +1,44 @@
+[
+    {
+      "Title": "Don Quixote",
+      "Authors":"Miguel de Cervantes Saavedra, Tobias George Smollett",
+      "Summary": "The final and greatest utterance of the human mind. Fyodor Dostoyevsky. A founding work of modern Western literature, Cervantes' masterpiece has been translated into more than 60 languages and the novel's elderly knight, Don Quixote, and his loyal squire, Sancho Panza, rank among fiction's most recognized characters. This monumental parody of chivalric romances and epic of heroic idealism presents a strikingly contemporary narrative that also reflects the historical realities of 17th century Spain",
+      "Image":"Images/Don.jpg",
+      "Genre":"Fiction"
+    },
+    {
+      "Title": "Alices adventures in wonderland",
+      "Authors":"Lewis Carroll (Author)",
+      "Summary": "The final and greatest utterance of the human mind. Fyodor Dostoyevsky. A founding work of modern Western literature, Cervantes' masterpiece has been translated into more than 60 languages and the novel's elderly knight, Don Quixote, and his loyal squire, Sancho Panza, rank among fiction's most recognized characters. This monumental parody of chivalric romances and epic of heroic idealism presents a strikingly contemporary narrative that also reflects the historical realities of 17th century Spain",
+      "Image":"Images/Alices.jpg",
+      "Genre":"Fiction"
+    },
+    {
+        "Title": "The annotated Huckleberry Finn : Adventures of Huckleberry Finn (Tom Sawyer's comrade)",
+        "Authors":"Mark Twain (Author)",
+        "Summary":"Michael Patrick Hearn, author of the national bestseller The Annotated Wizard of Oz, has done equal justice to this great American novel. A Twain literary sleuth and an authority on children's literature, he,",
+        "Image":"Images/Adventure.jpg",
+        "Genre":"Adventure stories"
+    },
+    {
+        "Title": "The adventures of Tom Sawyer",
+        "Authors":"Mark Twain, Michael Patrick Hearn",
+        "Summary":"The adventures of a mischievous young boy and his friends growing up in a Mississippi River town in the nineteenth century. Who could forget the pranks, the adventures, the sheer fun of Tom Sawyer? It's something every child should experience and every child will love. From Tom's sly trickery with the whitewashed fence, when he cleverly manipulates everyone so they happily do his work for him, to his and Becky Thatcher's calamities in Bat Cave, the enjoyment just never ends",
+        "Image":"Images/TomSwayer.jpg",
+        "Genre":"Children's stories"
+    },
+    {
+        "Title": "Treasure Island",
+        "Authors":"Robert Louis Stevenson",
+        "Summary":"While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads to a pirate fortune as well as great danger",
+        "Image":"Images/Teasureisland.jpg",
+        "Genre":"Adventure fiction"
+    },
+    {
+        "Title": "Pride and prejudice",
+        "Authors":"Jane Austen, Anna Quindlen",
+        "Summary":"In early nineteenth-century England, a spirited young woman copes with the suit of a snobbish gentleman, as well as the romantic entanglements of her four sisters",
+        "Image":"Images/Domesticfiction.jpg",
+        "Genre":"Domestic fiction"
+    }
+  ]
